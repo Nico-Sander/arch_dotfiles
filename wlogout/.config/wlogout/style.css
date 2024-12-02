@@ -1,0 +1,46 @@
+* {
+    font-family: Caskaydia Cove Nerd Font, FontAwesome;
+	background-image: none;
+	box-shadow: none;
+}
+
+window {
+	background-color: rgba(12, 12, 12, 0.2);
+}
+
+button {
+    border-radius: 6;
+    border-color: #1E1E1E;
+	text-decoration-color: #FFFFFF;
+    font-size: 30px;
+    color: #FFFFFF;
+	background-color: #222222;
+	border-style: solid;
+	border-width: 1px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 5%;
+}
+
+button:focus, button:active, button:hover {
+	background-color: #1E1E2E;
+	outline-style: none;
+}
+
+#lock {
+}
+
+#logout {
+}
+
+#suspend {
+}
+
+#hibernate {
+}
+
+#shutdown {
+}
+
+#reboot {
+}
